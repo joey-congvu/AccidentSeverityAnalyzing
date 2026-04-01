@@ -59,5 +59,6 @@ Weather
 Roadway relation
 Severe accidents are harder to predict due to class imbalance
 Binary classification (severe vs non-severe) improved model performance
+
 How to run: demo.ipynb
 Report: FinalReport.pdf
